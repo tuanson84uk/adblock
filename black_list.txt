@@ -294,7 +294,6 @@ exo.nel.measure.office.net
 exoclick.com
 explus.vn
 fabric.io
-fastly.net
 fbsbx.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
@@ -467,7 +466,6 @@ msedge.net
 msftncsi.com
 msntest.serving-sys.com
 my.vnexpress.net
-n.sni.global.fastly.net
 na1e-acc.services.adobe.com
 napiservice.com
 natureapi.com
