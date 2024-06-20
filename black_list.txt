@@ -103,6 +103,7 @@ eclick.vn
 edgekey.net
 eltima.com
 eth0.me
+exo.nel.measure.office.net
 exoclick.com
 explus.vn
 fabric.io
@@ -139,6 +140,7 @@ i-shop.vnecdn.net
 i-vietnam.vn
 i.ibb.co
 i.vietnamnet.vn
+ic3.events.data.microsoft.com
 id.vietnamnet.vn
 idgdmg.com.cn
 igexin.com
@@ -183,6 +185,7 @@ msads.net
 msecn.net
 msftncsi.com
 my.vnexpress.net
+n.sni.global.fastly.net
 na1e-acc.services.adobe.com
 napiservice.com
 natureapi.com
