@@ -252,6 +252,7 @@ unpkg.com
 updates.devmate.com
 useinsider.com
 uservoice.com
+v10.events.data.microsoft.com
 viam.com.vn
 vietadsgroup.com
 vietadsonline.com
