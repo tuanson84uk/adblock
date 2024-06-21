@@ -321,6 +321,7 @@ googlesyndication.com
 googletagmanager.com
 graph.facebook.com
 gvt1.com
+gvt3.com
 h1.msn.com
 h2.msn.com
 haiqibing.top
@@ -496,6 +497,7 @@ qq.com
 qq.com.edgekey.net
 qqyeah.com
 quantserve.com
+r.bing.com
 rad.live.com
 rad.msn.com
 rads.msn.com
