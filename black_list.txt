@@ -828,6 +828,7 @@ xbroker-z1-i2.ngxcld.com
 yahoodns.net
 yap.yahoo.com
 yomedia.vn
+za.zalo.me
 zendesk.com
 zopim.com
 ztd.dds.microsoft.com
