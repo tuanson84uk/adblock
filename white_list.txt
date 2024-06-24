@@ -512,7 +512,6 @@ player.explus.vn
 plaync.com
 playvid.host
 pool.ntp.org
-pornhub.com
 portal.fb.com
 portal.grab.com
 powerapps.com
@@ -726,8 +725,6 @@ xemtuvi.mobi
 xiongmaitech.com
 xp.apple.com
 xpui.app.spotify.com
-xvideos-cdn.com
-xvideos.com
 xx.fbcdn.net
 yahoo.com
 yan.vn
