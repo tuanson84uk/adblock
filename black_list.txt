@@ -501,7 +501,6 @@ inference.location.live.net
 innity.net
 insideruser.trafficmanager.net
 interactive.brand.zing.vn
-iotcplatform.com
 ipv6forum.com
 ispaceq.com
 jp-mobile.events.data.microsoft.com
