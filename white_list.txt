@@ -163,7 +163,6 @@ connectivitycheck.gstatic.com
 count.tpb.vn
 courier.push.apple.com
 cryptomator.org
-cryptomilk.org
 cs.dds.microsoft.com
 cse.google.com
 csi.gstatic.com
@@ -177,7 +176,6 @@ debian-archive.trafficmanager.net
 debian.org
 debianadmin.com
 delivery.mp.microsoft.com
-depcungban.vn
 deploy.static.akamaitechnologies.com
 dev.teams.microsoft.com
 dev.virtualearth.net
@@ -194,7 +192,6 @@ dns.google.com
 dns.msftncsi.com
 dnscrypt.info
 dnsleaktest.com
-dnsv1.com
 docs.google.com
 documentfoundation.org
 download-chromium.appspot.com
