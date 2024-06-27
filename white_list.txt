@@ -13,6 +13,7 @@ accounts.google.com
 accounts.nvgs.nvidia.com
 accounts.youtube.com
 acompli.net
+activity.windows.com
 adaway.org
 adblockplus.org
 addons.cdn.mozilla.net
@@ -66,7 +67,6 @@ as-api.asm.skype.com
 assets.adobedtm.com
 assets.pinterest.com
 asus.com
-atomicobject.com
 authentication.tpb.vn
 authsvc.teams.microsoft.com
 autodiscover-s.outlook.com
@@ -299,7 +299,6 @@ godaddy.com
 goo.gl
 google.com
 google.com.onion
-google.ru
 googleapis.com
 googleoptimize.com
 googleusercontent.com
@@ -407,7 +406,6 @@ mmx-ds.cdn.whatsapp.net
 mobile-ap.spotify.com
 mobile-mail.google.com
 mobiradio.vn
-mobivitas.com
 moca.vn
 monngonhomnay.com
 mota.mediatek.com
@@ -428,7 +426,6 @@ ndtv.com
 nest.com
 netgate.com
 netmon-control.dropbox.com
-never-stop-learning.de
 news.zalo.me
 nguoiduatin.vn
 ninjastream.to
@@ -555,7 +552,6 @@ sbixby.com
 scontent.whatsapp.net
 sdk.peppermint.samsung.com
 sdk.pushmessage.samsung.com
-sdmc.tv
 search.yahoo.com
 security-cdn.debian.org
 sendit.cloud
@@ -575,7 +571,6 @@ sin-microservices-elb-origin.startappservice.com
 sketchapp.com
 sketchappsources.com
 skype.com
-slashroot.in
 smartlock.google.com
 smoot.apple.com
 smtp-mail.outlook.com
@@ -615,11 +610,9 @@ systutorials.com
 talk-m.zaloapp.com
 talk.zaloapp.com
 tapi.api.zaloapp.com
-teads.tv
 teams-chatsvcagg-prod.trafficmanager.net
 teams.microsoft.com
 tecadmin.net
-techiediaries.com
 techradar.com
 tecmint.com
 termius.com
@@ -646,7 +639,6 @@ toquocs.cnnd.vn
 tpb.vn
 tracuuphapluat.info
 trafficmanager.net
-tranhnhuadep.com
 translate.google.cn
 trouter.io
 tuoitre.vn
@@ -661,7 +653,6 @@ upload.twitter.com
 us.launcher.battle.net
 uservoice.com
 vatgia.com
-via.placeholder.com
 videolan.org
 vietphrase.info
 visualstudio.microsoft.com
