@@ -4,7 +4,6 @@
 24h.com.vn
 a-msedge.net
 aaplimg.com
-abtest.api.viber.com
 account.azureedge.net
 account.msa.akadns6.net
 account.viber.com
@@ -59,7 +58,6 @@ api.zaloapp.com
 apinas.nct.vn
 apis.google.com
 apis.live.net
-app.adjust.com
 appcloud.mcafee.com
 apple-dns.net
 apple-finance.query.yahoo.com
