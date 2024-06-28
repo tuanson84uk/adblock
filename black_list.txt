@@ -3,7 +3,6 @@
 2mdn.net
 37bvsblobprodcus311.blob.core.windows.net
 66995500.com
-g.live.com
 6eiw8q.com
 a.ads1.msn.com
 a.ads2.msads.net
@@ -293,7 +292,6 @@ cy2.vortex.data.microsoft.com.akadns.net
 cyingv.com
 data.mistat.xiaomi.com
 data.mob.com
-datasaver.googleapis.com
 db3aqu.atdmt.com
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.settings-win.data.microsoft.com.akadns.net
@@ -390,7 +388,6 @@ googleadservices.com
 googlesyndication.com
 googletagmanager.com
 graph-next.fp.measure.office.com
-graph.facebook.com
 h1.msn.com
 h2.msn.com
 haiqibing.top
@@ -556,7 +553,6 @@ msecn.net
 msedge.net
 msftncsi.com
 msntest.serving-sys.com
-my.vnexpress.net
 na1e-acc.services.adobe.com
 napiservice.com
 natureapi.com
@@ -649,8 +645,6 @@ rads.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 romeccs.microsoft.com
-s-msft.com
-sbixby.com
 schemas.microsoft.akadns.net
 scorecardresearch.com
 sdwan.measure.office.com
@@ -700,14 +694,12 @@ ssptp4.com
 ssw.live.com
 static.criteo.net
 static.exosrv.com
-staticxx.facebook.com
 stickyadstv.com
 stripe.com
 subiz.com
 survey.watson.microsoft.com
 sw-update.obdev.at
 syndication.exosrv.com
-synology.me
 tanyrd.com
 taobao.com
 tb.events.data.microsoft.com
@@ -784,7 +776,6 @@ view.atdmt.com
 virtualearth.net
 visio-telemetry.officeapps.live.com
 visioonline.nel.measure.office.net
-vndirect.com.vn
 vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
@@ -810,20 +801,16 @@ win-global-asimov-leafs-events-data.trafficmanager.net
 win10.ipv6.microsoft.com
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
-winzip.com
 word-telemetry.officeapps.live.com
 wordonline.nel.measure.office.net
-wowza.com
 wshifen.com
 www.qq.com
 www.telecommandsvc.microsoft.com
 xblgdvrassets3010.blob.core.windows.net
 xbroker-z1-i2.ngxcld.com
-yahoodns.net
 yap.yahoo.com
 yomedia.vn
 za.zalo.me
 za.zdn.vn
-zendesk.com
 zopim.com
 ztd.dds.microsoft.com
