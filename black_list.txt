@@ -12,7 +12,6 @@ ab.chatgpt.com
 abtest.api.viber.com
 ac3.msn.com
 acompli.net
-activity.windows.com
 ad-creatives-public.commondatastorage.googleapis.com
 ad.org.vn
 adasiaholdings.com
@@ -58,7 +57,6 @@ anthill.vn
 apac.events.data.microsoft.com
 apac.events.data.trafficmanager.net
 api-lr.adbecrsl.com
-api.cortana.ai
 api.edgeoffer.microsoft.com
 app-measurement.com
 app.chat.xiaomi.net
@@ -69,7 +67,6 @@ apptimize.com
 aria.events.data.trafficmanager.net
 asimov-win.settings.data.microsoft.com.akadns.net
 asimov.events.data.trafficmanager.net
-assets.activity.windows.com
 atdmt.com
 au-mobile.events.data.microsoft.com
 au-v10.events.data.microsoft.com
