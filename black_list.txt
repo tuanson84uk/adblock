@@ -310,7 +310,6 @@ disqus.com
 dmca.com
 donreach.com
 doubleclick.net
-download.macromedia.com
 e6156.dscf.akamaiedge.net
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -392,8 +391,6 @@ googlesyndication.com
 googletagmanager.com
 graph-next.fp.measure.office.com
 graph.facebook.com
-gvt1.com
-gvt3.com
 h1.msn.com
 h2.msn.com
 haiqibing.top
@@ -627,8 +624,6 @@ pipe.aria.microsoft.com
 placeholder.com
 platformsh.site
 playsnail.com
-plus.l.google.com
-plusone.google.com
 polyad.net
 powerpoint-telemetry.officeapps.live.com
 powerpointonline.nelsdf.measure.office.net
