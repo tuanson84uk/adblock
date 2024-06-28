@@ -146,7 +146,6 @@ cab.watson.microsoft.com
 cac-visio-telemetry.officeapps.live.com
 cache.datamart.windows.com
 cachefly.net
-cachlambanhdongian.com
 campaign.catsn.vn
 catsn.vn
 cbsinteractive.com
@@ -679,6 +678,7 @@ shifen.com
 shop.vnexpress.net
 socialshopwave.com
 sonobi.com
+sp.zalo.me
 spo.nel.measure.office.net
 spynet2.microsoft.com
 spynetalt.microsoft.com
