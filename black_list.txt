@@ -59,6 +59,7 @@ apac.events.data.trafficmanager.net
 api-lr.adbecrsl.com
 api.edgeoffer.microsoft.com
 app-measurement.com
+app.adjust.com
 app.chat.xiaomi.net
 appboy.com
 apps.wallsh.com
