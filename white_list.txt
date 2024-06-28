@@ -57,6 +57,7 @@ api.tiki.vn
 api.weather.com
 api.zaloapp.com
 apinas.nct.vn
+apis.google.com
 apis.live.net
 app.adjust.com
 appcloud.mcafee.com
@@ -494,6 +495,7 @@ play.googleapis.com
 player.explus.vn
 plaync.com
 playvid.host
+plus.l.google.com
 pool.ntp.org
 portal.fb.com
 portal.grab.com
