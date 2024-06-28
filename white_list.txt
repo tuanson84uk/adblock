@@ -680,7 +680,6 @@ webex.com
 whatsapp.com
 whatsapp.net
 whispersystems.org
-who.int
 wiki.termux.com
 wikimedia.org
 wikimonngon.top
