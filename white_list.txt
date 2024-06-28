@@ -313,9 +313,6 @@ graph.instagram.com
 group.api.zalo.me
 group.api.zaloapp.com
 gstatic.com
-gvt1.com
-gvt2.com
-gvt3.com
 hackthology.com
 here.com
 howtogeek.com
