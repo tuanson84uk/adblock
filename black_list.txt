@@ -1,8 +1,4 @@
 112gs.com
-sp.zalo.me
-lp-zm.zapps.vn
-logs-ott.fbox.fpt.vn
-moneyoyo.org
 1oavsblobprodcus350.blob.core.windows.net
 2mdn.net
 37bvsblobprodcus311.blob.core.windows.net
@@ -18,17 +14,27 @@ ac3.msn.com
 acompli.net
 ad-creatives-public.commondatastorage.googleapis.com
 ad.org.vn
+ad.zing.vn
 adasiaholdings.com
 adblockers-ns.servicebus.windows.net
 adbro.me
+adbroker.zing.vn
 addthis.com
 adhs.events.data.microsoft.com
 admanmedia.com
 admicro.vn
+admicro1.vcmedia.vn
+admicro2.vcmedia.vn
+adnet.vn
+adnetwork.vn
 adnexus.net
 adnxs.com
 adpushup.com
+adrealclick.com
+ads.bkns.vn
+ads.easyvn.net
 ads.msn.com
+ads.vdata.vn
 ads.viber.com
 ads.zalo.me
 ads1.msads.net
@@ -58,6 +64,7 @@ alpha.telemetry.microsoft.com
 amazon-adsystem.com
 amcdn.vn
 anthill.vn
+ants.vn
 apac.events.data.microsoft.com
 apac.events.data.trafficmanager.net
 api-lr.adbecrsl.com
@@ -88,6 +95,7 @@ b.ads1.msn.com
 b.ads2.msads.net
 b.rad.msn.com
 baidu.com
+bd.apps.zing.vn
 bestadsontv.com
 bidswitch.net
 bimiboo.com
@@ -364,6 +372,7 @@ flex.msn.com
 footprint.net
 footprintdns.com
 fp.measure.office.com
+fptad.com
 fr.app.chat.global.xiaomi.net
 frc-visio-telemetry.officeapps.live.com
 fstats.xyz
@@ -529,7 +538,9 @@ log.api.zaloapp.com
 log.baomoi.com
 log.ezvizlife.com
 log.thanhnien.vn
+logs-ott.fbox.fpt.vn
 logs.fbox.fpt.vn
+lp-zm.zapps.vn
 lynda.com
 m.adnxs.com
 m365cdn.nel.measure.office.net
@@ -539,7 +550,9 @@ market.viber.com
 marketing-assets.nest.com
 measure.office.com
 measure.office.net
+mediamart.vn
 mepuzz.com
+meta.vn
 mgid.com
 mi-idc.com
 mingid.mediacdn.vn
@@ -549,6 +562,7 @@ mobile.events.data.trafficmanager.net
 mobile.pipe.aria.microsoft.com
 modern.watson.data.microsoft.com.akadns.net
 modpim.com
+moneyoyo.org
 msads.net
 msecn.net
 msedge.net
@@ -618,6 +632,7 @@ pgtus6-excel-telemetry-vip.officeapps.live.com
 pgtus6-powerpoint-telemetry-vip.officeapps.live.com
 pgtus6-word-telemetry-vip.officeapps.live.com
 pipe.aria.microsoft.com
+pixelmedia.vn
 placeholder.com
 platformsh.site
 playsnail.com
@@ -684,6 +699,7 @@ shop.vnexpress.net
 socialshopwave.com
 sonobi.com
 sp.zalo.me
+sp.zalo.me
 spo.nel.measure.office.net
 spynet2.microsoft.com
 spynetalt.microsoft.com
@@ -725,6 +741,7 @@ tfl.nel.measure.office.net
 tgtus1-excel-telemetry-vip.officeapps.live.com
 tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 tgtus1-word-telemetry-vip.officeapps.live.com
+thaisonmedia.com
 thongke.24h.com.vn
 tiqcdn.com
 trace.popin.cc
@@ -778,6 +795,7 @@ view.atdmt.com
 virtualearth.net
 visio-telemetry.officeapps.live.com
 visioonline.nel.measure.office.net
+vnpopads.com
 vortex-sandbox.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
