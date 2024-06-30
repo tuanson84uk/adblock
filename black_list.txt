@@ -55,7 +55,6 @@ alexametrics.com
 alibaba-inc.com
 alibaba.com
 alibaba1688.vn
-alibabadns.com
 alibabausercontent.com
 aliyun.com
 alpha.telemetry.microsoft.com
