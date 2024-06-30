@@ -57,8 +57,6 @@ alibaba.com
 alibaba1688.vn
 alibabadns.com
 alibabausercontent.com
-alicdn.com
-aliexpress.com
 aliyun.com
 alpha.telemetry.microsoft.com
 amazon-adsystem.com
@@ -743,7 +741,6 @@ tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 tgtus1-word-telemetry-vip.officeapps.live.com
 thaisonmedia.com
 thongke.24h.com.vn
-tiqcdn.com
 trace.popin.cc
 track-apac.adformnet.akadns.net
 trafficfuelpixel.s3-us-west-2.amazonaws.com
