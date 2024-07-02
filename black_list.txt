@@ -712,7 +712,6 @@ ssw.live.com
 static.criteo.net
 static.exosrv.com
 stickyadstv.com
-stripe.com
 subiz.com
 survey.watson.microsoft.com
 sw-update.obdev.at
